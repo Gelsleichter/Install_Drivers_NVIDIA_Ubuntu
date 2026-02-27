@@ -1,6 +1,7 @@
 # Tutorial: Instalação de Drivers NVIDIA no Kubuntu 25.04 para Data Science
 
-**Máquina:** Dell Precision 7670 (Intel iGPU + NVIDIA RTX A3000 12GB)
+**Criação:** Modelo LLM Opus 4.6 
+**Testado em:** Dell Precision 7670 (Intel iGPU + NVIDIA RTX A3000 12GB)
 **Sistema:** Kubuntu 25.04 (dual boot com Windows 11)
 **Objetivo:** GPU híbrida (Intel para display, NVIDIA para computação CUDA)
 
